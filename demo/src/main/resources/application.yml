@@ -46,8 +46,8 @@ mybatis:
     configLocation: classpath:/mybatis-config.xml  
   
 # LOGGING  
-logging:
-    file: springboot.log
-    level:  
-       com.ibatis:  DEBUG
-       com.example.myproject.controller:  DEBUG
+#logging:
+#    file: springboot.log
+#    level:
+#       com.ibatis:  DEBUG
+#       com.example.myproject.controller:  DEBUG
